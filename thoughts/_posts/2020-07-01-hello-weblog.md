@@ -86,7 +86,7 @@ Section 8.1 of the [AWS User Agreement][aws-agreement]
 > 8.1 Your Content. Except as provided in this Section 8, we obtain no rights under this Agreement from you (or your licensors) to Your Content. You consent to our use of Your Content to provide the Service Offerings to you and any End Users.
 
 This post is all mine.
-Fuck you Amazon.
+Thanks AWS and fuck you Medium.
 :blush:
 <br/>
 <br/>

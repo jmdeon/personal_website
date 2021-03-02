@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /about.html
 ---
 
 I am an engineer. You can find some of my code, including the configuration for this blog, on [my github][jmdeon-github].
